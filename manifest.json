@@ -1,7 +1,7 @@
 {
   "name": "what to do",
   "short_name": "what to do",
-  "start_url": "",
+  "start_url": "/what-to-do/",
   "display": "standalone",
   "background_color": "#222",
   "theme_color": "#222",
@@ -18,5 +18,6 @@
     }
   ]
 }
+
 
 
